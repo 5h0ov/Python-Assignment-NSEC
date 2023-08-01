@@ -1,7 +1,7 @@
 # Python-Assignment-NSEC
 Collection of the Python Assignments programs of 3rd Semester NSEC 
 
-# Assignment PDFs of Program Questions:
+# Assignment Program Questions:
 ## Assignment 1:
 1. Write a python program to display a message on the screen as follows.
 We are the students from the dept. of Information Technology.
