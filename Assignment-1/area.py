@@ -2,7 +2,7 @@ r=10
 area=3.14 * r * r
 print("The area of a circle with radius 10 units is ",area," units.")
 peri=2 * 3.14 * r
-print("The perimeter of a circle with radius 10 units is ",peri," units.\n")
+print("The perimeter of a circle with radius 10 units is ",round(peri,2)," units.\n")
 
 s=5
 area=r**2
