@@ -20,7 +20,7 @@ value of z andz has the value of x.
 is 5678.
 8. Write a program to add two complex numbers by reading the numbers from the user.
 9. Write a program to accept the principal amount, rate of interest, and duration from the
-user. Calculatethe interest amount and the total amount (principal + interest).
+user. Calculate the interest amount and the total amount (principal + interest).
 10. Write a program to calculate simple interest with the following conditions:
 If the principal amount is less than 2,00,000 the interest rate is 10%.
 If the principal amount is 2,00,000 -10,00,000 the interest rate is 12%.
