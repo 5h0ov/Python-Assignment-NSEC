@@ -1,5 +1,5 @@
 # Python-Assignment-NSEC
-Collection of the Python Assignments programs of 3rd Semester NSEC 
+Collection of the Python Assignment Programs of 3rd Semester NSEC 
 
 # Assignment Program Questions:
 ## Assignment 1:
