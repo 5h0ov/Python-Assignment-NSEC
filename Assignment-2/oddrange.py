@@ -1,4 +1,6 @@
 n=(int)(input("Enter value of n for the range 1 to n: "))
+i=1
 
-for i in range(1,n+1,2):
+while(i<n):
     print(i,end=" ")
+    i+=2
