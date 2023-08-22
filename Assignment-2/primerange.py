@@ -1,6 +1,10 @@
-n=(int)(input("Enter value of n for the range 1 to n: "))
+print("Example range of numbers: a to b")
+a=(int)(input("Enter value of a: "))
+b=(int)(input("Enter value of b: "))
 
-for i in range(2,n):
+prime= False
+
+for i in range(a,b):
     if(i>1):
         prime= True
     for j in range(2,int(i ** 0.5)+1):
