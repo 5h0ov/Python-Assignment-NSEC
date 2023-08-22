@@ -12,10 +12,10 @@ for i in range(0,N):
     if(t1==N):
         print("N is present")
         flag=1
-        break
+        exit(1)
     nextTerm=t1+t2
     t1=t2
     t2=nextTerm
 
-if(flag!=1):
+if(flag==0):
     print("N is not present")
