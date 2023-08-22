@@ -7,4 +7,4 @@ for i in range(1,N+1):
         f=f*j
     sum+= 1/f;
 
-print("The required sum is:",sum)
+print("The required sum is: {:.2f}".format(sum))
