@@ -54,3 +54,44 @@ Note an Armstrong number is such a number that is equal to the sum of cubes of i
 25) Write a program that prompts users to enter numbers. This process repeats until the
 user enters -1. Finally, the program prints the count of prime and composite numbers
 entered.
+
+## Assignment 3:
+26) Write a program to count the number of each vowel in a sentence.
+27) Write a program to read a string and check whether the string is a palindrome or not.
+28) Write a program to get a string from a given string where all occurrences of the last
+character havebeen changed to ‘*’, except the last character.
+29) Write a program to count the occurrences of a word in a given sentence.
+30) Write a program to detect whether two strings are anagrams or not.
+31) Write a program to find the maximum and minimum of a list of numbers without
+using built-in functions.
+32) Write a program to find the union of two lists.
+33) Write a program to concatenate two lists using list comprehension.
+34) Write a program to ask the user to enter a file name with its proper extension and the
+system will display the file extension only.
+35) Create a list with at least 15 items and remove all duplicate items from that list.
+36) Add the item 7000 after 6000 in the following Python List.
+Given List: [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
+37) Extend a given nested list by adding the sub list ["h", "i", "j"] in such a way that it will
+look like the following expected list.
+Given_List: ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+Expected_List: ['a', 'b', ['c', ['d', 'e', ['f', 'g', 'h', 'i', 'j'], 'k'], 'l'], 'm', 'n']
+38) Write a program to multiply two matrices as nested lists.
+39) Write a program to create a list from two given lists ‘list1’ and ‘list2’ of numbers such
+that it containsnumbers that are present in ‘list2’ but not in ‘list1’.
+40)Write a program to find the distinct pair of numbers whose product is odd from a list of
+integers.
+41) Write a python program that will input the following information and store those in a tuple
+and then print the entered information.
+- Empno (int),
+- Name (str),
+- Salary (float)
+42) Create two sets of 10 arbitrary Natural numbers and 10 arbitrary Real numbers each. Find
+out the common numbers from these two sets.
+43) Write a program to accept a sequence of comma-separated numbers from the user and
+generate a tuplewith those numbers.
+44) Write a program to add elements in a tuple without using built-in functions.
+45) Write a program to calculate the mean of elements in a tuple of integers.
+46) Write a program to display unique and duplicate elements of a tuple.
+47) Write a program to count the frequency of all the elements in a tuple.
+48) Write a program to find the distinct pair of numbers whose product is even from a tuple of
+integers.
