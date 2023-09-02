@@ -78,7 +78,7 @@ Expected_List: ['a', 'b', ['c', ['d', 'e', ['f', 'g', 'h', 'i', 'j'], 'k'], 'l']
 38) Write a program to multiply two matrices as nested lists.
 39) Write a program to create a list from two given lists ‘list1’ and ‘list2’ of numbers such
 that it containsnumbers that are present in ‘list2’ but not in ‘list1’.
-40)Write a program to find the distinct pair of numbers whose product is odd from a list of
+40) Write a program to find the distinct pair of numbers whose product is odd from a list of
 integers.
 41) Write a python program that will input the following information and store those in a tuple
 and then print the entered information.
