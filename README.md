@@ -95,3 +95,56 @@ generate a tuplewith those numbers.
 47) Write a program to count the frequency of all the elements in a tuple.
 48) Write a program to find the distinct pair of numbers whose product is even from a tuple of
 integers.
+
+## Assignment 4:
+49) Create two sets of 10 arbitrary Natural numbers and 10 arbitrary Real numbers each. Find
+out the common numbers from these two sets.
+50) Create two sets of students with 10 members each for Cultural committee and Sports
+committee. Find out those students who are not common in these two committees.
+51) Create a new dictionary by extracting the following keys from the dictionary given below.
+sampleDict = { "name": "Kelly", "age":25, "salary": 8000, "city": "New york"}
+Keys to extract, keys = ["name", "salary"]
+52) There are two lists given below. Convert those into a single dictionary as {keys : values}.
+keys = ['Ten', 'Twenty', 'Thirty', ‘Forty’, ‘Fifty’]
+values = [10, 20, 30]
+53) Write a Python program which can accept the Names of players and Runs-scored by them in
+a cricket team. Use dictionary to store these details. Finally print the run scored against a
+player’s name that will be entered. Show a suitable message if a player is not found.
+54) Enter the marks scored by a student in an examination for the subjects as mentioned in the
+dictionary, “marksDict”. Find the subjects and marks where the student has scored the best
+and the worst.
+marksDict = { ‘English’: ? , 'Physics': ? , 'Math': ? , ‘Chemistry’: ? , 'history': ? }
+
+55) Write a program to create a dictionary that contains (i, i*i) such that i is an integral number
+between 1 and n (both included).
+
+56) Write a program to count the numbers of characters in a string and store them in a
+dictionary.
+
+57) Write a program to create a dictionary by combining two lists ‘ name’ for employee name
+and ‘salary’ for employee salary. Use the list ‘name’ as the key and ‘salary’ as the value of
+dictionary elements.
+
+58) Write a program to sort (in ascending order) a dictionary by value.
+59) Write a program to merge two dictionaries.
+60) Write a program to find GCD and LCM of two numbers by defining a function to compute
+GCD and LCM.
+
+61) Write a program to define a function that accepts a string and calculates the number
+of uppercase letters and lowercase letters.
+
+62) Write a program to find all the unique elements of a list by defining a function.
+63) Write a program to print the even numbers from a given list using the lambda function
+64) Write a program to find the maximum value from a list using the lambda function.
+
+65) Write Python function(s) that take(s) two lists from the user and return(s) the common items
+from both lists. Thereafter merge those two lists into a separate empty list where there will
+no duplicate items.
+66) Write Python function(s) to convert a Hexadecimal number to its equivalent Binary and
+Decimal values.
+67) Find out the factorial of a given number using a recursive function.
+68) Write a program to find all the numbers divisible by 5 and 7 between the given range using
+the Lambda function.
+69) Create a sequence of 30 integers (you may use range() for it). Reduce this sequence to even
+numbers only and store their inverse into another sequence by using filter() and map().
+Finally find out the sum of all elements in the reduced sequence. You can use reduce().
